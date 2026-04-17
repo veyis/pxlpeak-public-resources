@@ -144,3 +144,11 @@ Most "just get it working" implementations skip these. Four of them are one-line
 ---
 
 Need production-grade n8n built for you? [PxlPeak](https://pxlpeak.com) deploys automation workflows for SMB service businesses in 5 business days. Client owns the n8n instance and all credentials. Zero vendor lock-in. [Book a 15-min intro](https://pxlpeak.com/book).
+
+---
+
+## Related
+
+- [Voice Agent Go-Live Checklist](./voice-agent-golive-checklist.html) — 40 production checks for AI voice agents sitting on top of webhook-based automation
+- [RAG Chatbot Quality Bar](./rag-chatbot-quality-bar.html) — 20 ship-ready criteria for SMB RAG chatbots
+- [AI Agent ROI Calculation](./ai-agent-roi-calculation.html) — modeling the business case for AI automation investment

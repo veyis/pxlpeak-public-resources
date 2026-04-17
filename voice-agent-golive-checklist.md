@@ -75,3 +75,11 @@ Skip any item at your own risk. Every one of these represents a real incident we
 ---
 
 Want this done for you? [PxlPeak](https://pxlpeak.com) ships production voice agents for SMBs in 5 business days. Fully owned by the client, no lock-in, $997/mo starting price. [Book a 15-min intro](https://pxlpeak.com/book).
+
+---
+
+## Related
+
+- [n8n Webhook Security — Production Patterns](./n8n-webhook-security.html) — production webhook hardening for the automation layer behind voice agents
+- [RAG Chatbot Quality Bar](./rag-chatbot-quality-bar.html) — the chatbot counterpart to this checklist
+- [AI Agent ROI Calculation](./ai-agent-roi-calculation.html) — how to model whether a voice agent is worth deploying in the first place

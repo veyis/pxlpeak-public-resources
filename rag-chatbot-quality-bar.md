@@ -70,3 +70,11 @@ Hitting these at launch:
 ---
 
 We ship this whole pipeline end-to-end for SMBs. Custom RAG chatbots trained on client data, deployed in 5 business days, starting at $997/mo. [PxlPeak](https://pxlpeak.com) · [Book a 15-min intro](https://pxlpeak.com/book).
+
+---
+
+## Related
+
+- [Voice Agent Go-Live Checklist](./voice-agent-golive-checklist.html) — the voice counterpart to this checklist (phone-based agents vs. chat-based)
+- [n8n Webhook Security — Production Patterns](./n8n-webhook-security.html) — securing the webhook layer between a chatbot and its backend integrations
+- [AI Agent ROI Calculation](./ai-agent-roi-calculation.html) — deciding whether a RAG chatbot is worth building for a specific SMB

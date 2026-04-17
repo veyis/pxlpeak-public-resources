@@ -128,3 +128,11 @@ If the client can't produce these numbers, that's itself the finding. The bigges
 Skip the math — try the [live calculator](https://pxlpeak.com/tools/ai-agent-roi-calculator). Or [book a 15-min intro](https://pxlpeak.com/book) and we'll run the full model against your real numbers.
 
 [PxlPeak](https://pxlpeak.com) — AI voice agents, chatbots, n8n automations. 5-day deployments, client-owned, $997/mo starting.
+
+---
+
+## Related
+
+- [Voice Agent Go-Live Checklist](./voice-agent-golive-checklist.html) — what to actually build once the ROI math says go
+- [RAG Chatbot Quality Bar](./rag-chatbot-quality-bar.html) — the chatbot equivalent of go-live criteria
+- [n8n Webhook Security — Production Patterns](./n8n-webhook-security.html) — production-grade automation patterns for the implementation layer
