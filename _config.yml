@@ -1,0 +1,15 @@
+title: PxlPeak Public Resources
+description: Open reference notes for SMB AI implementation — voice agents, RAG chatbots, n8n workflows. Maintained by https://pxlpeak.com
+url: https://veyis.github.io
+baseurl: /pxlpeak-public-resources
+theme: jekyll-theme-minimal
+author: John V. Akgul
+show_downloads: false
+markdown: kramdown
+plugins:
+  - jekyll-seo-tag
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
