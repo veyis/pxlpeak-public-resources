@@ -8,6 +8,8 @@ show_downloads: false
 markdown: kramdown
 plugins:
   - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
 defaults:
   - scope:
       path: ""

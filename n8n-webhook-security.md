@@ -1,3 +1,9 @@
+---
+title: "n8n Webhook Security — 8 Production Patterns for Hardening Webhooks"
+description: "The 8-layer n8n webhook security pattern: signed headers, shared secrets, IP allowlisting, rate limiting, payload validation, idempotency, safe error handling, and secrets management."
+keywords: "n8n security, n8n webhook, webhook authentication, idempotency, hmac signature, shopify webhook, twilio webhook"
+---
+
 # n8n Webhook Security — Production Patterns
 
 Most n8n tutorials ship public webhooks with zero auth. That's fine for personal automation, dangerous for client work. This is what we use at [PxlPeak](https://pxlpeak.com) in production.

@@ -1,3 +1,9 @@
+---
+title: "Voice Agent Go-Live Checklist — 40 Production Items (Vapi / ElevenLabs / Retell)"
+description: "Production pre-deployment checklist for AI voice agents. Intent, prompt, integration, telephony, observability, and human-handoff checks. Used for every SMB voice deployment at PxlPeak."
+keywords: "voice ai agent, vapi, elevenlabs, retell, production checklist, smb voice agent, ai deployment"
+---
+
 # Voice Agent Go-Live Checklist
 
 Pre-deployment checklist for a production voice AI agent (Vapi / ElevenLabs Conv AI / Retell / Synthflow). Used at [PxlPeak](https://pxlpeak.com) for every SMB voice deployment. 40 items across 6 categories.

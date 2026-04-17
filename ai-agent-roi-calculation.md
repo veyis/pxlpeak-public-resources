@@ -1,3 +1,9 @@
+---
+title: "AI Agent ROI Calculation — The Real Math for SMB Voice Agents and Chatbots"
+description: "Four real ROI drivers for SMB AI agents: captured calls, operator time, faster response, after-hours coverage. Plain-math formulas with worked examples from HVAC, dental, and legal deployments."
+keywords: "ai agent roi, voice ai roi, chatbot roi, smb ai business case, ai implementation roi"
+---
+
 # AI Agent ROI Calculation — How We Actually Do It
 
 Most "AI agent ROI calculators" multiply vibes by hope. This is how we model it at [PxlPeak](https://pxlpeak.com) when a prospect asks whether a voice agent or chatbot is worth it for their business. All formulas are in plain math — no spreadsheet required.

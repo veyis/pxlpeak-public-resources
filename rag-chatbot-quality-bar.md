@@ -1,3 +1,9 @@
+---
+title: "RAG Chatbot Quality Bar — 20 Criteria Before You Ship to a Client"
+description: "Ship-ready criteria for small-business RAG chatbots: corpus quality, retrieval behavior, answer behavior, guardrails, observability. Plus the numbers: hit rate >85%, P95 <1.5s, hallucination rate 0%."
+keywords: "rag chatbot, retrieval augmented generation, chatbot quality, rag evaluation, llm chatbot, smb chatbot, rag production"
+---
+
 # RAG Chatbot Quality Bar
 
 What "ready to ship" actually means for a small-business RAG chatbot. This is the bar we hold at [PxlPeak](https://pxlpeak.com) before handing a chatbot off to a client. Twenty criteria across five buckets.
